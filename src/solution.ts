@@ -99,7 +99,7 @@ function getUniqueValues<T extends string | number>(arr1: T[], arr2: T[]): T[] {
   return result;
 }
 
-// problem 8
+// problem 8..
 type Product = {
   name: string;
   price: number;
